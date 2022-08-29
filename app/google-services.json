@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "861375019650",
+    "firebase_url": "https://chat-inu-ad282-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "chat-inu-ad282",
+    "storage_bucket": "chat-inu-ad282.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:861375019650:android:ac7ab0bfcb84caaa3ad29b",
+        "android_client_info": {
+          "package_name": "com.inu.inutalk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "861375019650-s0l2itmsdb9a9hviercvs97rv7jsnqfp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8Xsya2FvZi6_aW-CRRXWN11PADgR5SR4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "861375019650-s0l2itmsdb9a9hviercvs97rv7jsnqfp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
